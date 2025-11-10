@@ -14,7 +14,7 @@ public class WelcomeController {
 
 	 @GetMapping("/api/message")
 	    public String getMessage() {
-	        return "Hello from Spring Boot!---";
+	        return "Hello World From qwerty";
 	    }
 }
 
